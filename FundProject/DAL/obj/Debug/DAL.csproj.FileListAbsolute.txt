@@ -1,0 +1,16 @@
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\DAL.dll.config
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\DAL.dll
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\DAL.pdb
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\EntityFramework.dll
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\EntityFramework.xml
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\obj\Debug\DAL.dll
+D:\11th Semester\Advance C#\FT Lab Assessment\FundProject\DAL\obj\Debug\DAL.pdb
+D:\11th Semester\Advance C#\FT Lab Assessment(API_CRUD)\FundProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\11th Semester\Advance C#\FT Lab Assessment(API_CRUD)\FundProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\11th Semester\Advance C#\FT Lab Assessment(API_CRUD)\FundProject\DAL\obj\Debug\DAL.dll
+D:\11th Semester\Advance C#\FT Lab Assessment(API_CRUD)\FundProject\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FundProjectModelStoreContainer" CdmEntityContainer="FundProjectEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="FundProjectModel.Admin">
+        <MappingFragment StoreEntitySet="Admins">
+          <ScalarProperty Name="aId" ColumnName="aId" />
+          <ScalarProperty Name="aName" ColumnName="aName" />
+          <ScalarProperty Name="aUserName" ColumnName="aUserName" />
+          <ScalarProperty Name="aEmail" ColumnName="aEmail" />
+          <ScalarProperty Name="aGender" ColumnName="aGender" />
+          <ScalarProperty Name="aPassword" ColumnName="aPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="FundProjectModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="eId" ColumnName="eId" />
+          <ScalarProperty Name="eName" ColumnName="eName" />
+          <ScalarProperty Name="eUserName" ColumnName="eUserName" />
+          <ScalarProperty Name="eEmail" ColumnName="eEmail" />
+          <ScalarProperty Name="eGender" ColumnName="eGender" />
+          <ScalarProperty Name="ePassword" ColumnName="ePassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users1">
+      <EntityTypeMapping TypeName="FundProjectModel.Users1">
+        <MappingFragment StoreEntitySet="Users1">
+          <ScalarProperty Name="uId" ColumnName="uId" />
+          <ScalarProperty Name="uName" ColumnName="uName" />
+          <ScalarProperty Name="uUserName" ColumnName="uUserName" />
+          <ScalarProperty Name="uEmail" ColumnName="uEmail" />
+          <ScalarProperty Name="uGender" ColumnName="uGender" />
+          <ScalarProperty Name="uPassword" ColumnName="uPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
